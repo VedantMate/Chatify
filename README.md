@@ -68,8 +68,8 @@ Before you begin, ensure you have the following installed:
 
 ### Images 
 
-   ![login-pages](https://cdn.discordapp.com/attachments/987947169468284948/1195335890017456288/image.png?ex=65b39e4c&is=65a1294c&hm=606736dfef538fce43e603692f7bc01b440b6773ff249bb4a613798a0c079e77&)
+   ![login-pages](https://media.discordapp.net/attachments/987947169468284948/1195335890017456288/image.png?ex=6677650c&is=6676138c&hm=be6b5bee3e3df413238ada7d1518a327dec3aab2634005df6d22114038c662fd&=&format=webp&quality=lossless&width=825&height=355)
 
-   ![chat-page](https://cdn.discordapp.com/attachments/987947169468284948/1195342589256278117/image.png?ex=65b3a489&is=65a12f89&hm=c93c20ee3446a705206b9a0e7bb924fe6525d7eb981d77d6e45dfb02db4d3913&)
+   ![chat-page](https://media.discordapp.net/attachments/987947169468284948/1195342589256278117/image.png?ex=66776b49&is=667619c9&hm=a0864d99f54801d70ddedbcc587a77050ac1a02a25ab3ff8172aaa3e9a255a78&=&format=webp&quality=lossless&width=1440&height=618)
 
 
